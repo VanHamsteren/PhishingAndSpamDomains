@@ -337,9 +337,13 @@
 ||api-cloudnow.com
 ||aplikasiprinting.com
 ||apocanow.online
+||app-celularseguro.com
 ||app-measurement.com
 ||app-prompts.com
+||applefotos.support
 ||appleidef.xyz
+||appleimagens.com
+||appleoficial.com
 ||appnew.pro
 ||appquick.info
 ||appsflyer.com
@@ -599,6 +603,7 @@
 ||bootstrapping.com
 ||bottledowndomain.com
 ||bpljr6vmk.com
+||br-icloud.support
 ||brabusfreedy.shop
 ||bradaresgatando-clienteseguro.com
 ||brainlyads.com
@@ -742,6 +747,7 @@
 ||christopheantoine.click
 ||chritmasearly.com
 ||chungshingelectronic.com
+||cieloangular.space
 ||circleeastfive.com
 ||circusslaves.com
 ||citylink.com
@@ -813,6 +819,7 @@
 ||coinlib.io
 ||cointiply.com
 ||colbertrude.me.uk
+||collab-land.online
 ||collaborativeforce.biz.id
 ||collectiveautotheory.com
 ||collectivequestioningcompartment.com
@@ -838,6 +845,7 @@
 ||confirmit.com
 ||confischacheld.agency
 ||congressure.com
+||connect-1inch.com
 ||connect-prompt.app
 ||conseils-eligibilite2022.com
 ||consentmanager.net
@@ -854,6 +862,7 @@
 ||contentsquare.net
 ||context.ly
 ||continental-supreme.co.uk
+||contrarioescuchar.site
 ||controlcod.info
 ||convertagain.net
 ||converteai.net
@@ -1329,6 +1338,7 @@
 ||forlumineoner.com
 ||formulead.com
 ||fortdays.com
+||fortup.vip
 ||fourfolderframe.com
 ||fourteen-mediatop17.com
 ||foxnews-usa.com
@@ -1644,15 +1654,21 @@
 ||ibb.co
 ||ibeat-analytics.com
 ||ibf-rastreiospendentes.com
+||ibuscar-icloud.com
 ||ibytedtos.com
 ||icedog.xyz
 ||icitout.store
+||icloud-oficial.com
+||icloudbr.support
+||icloudbuscar.net
+||icloudoficial.live
 ||iconic-pk.ru
 ||iconicweekly.com
 ||iconvert.network
 ||icrmls.com
 ||icscards-online-identificatie.nl
 ||ictionyou.website
+||id-icloud.support
 ||id5-sync.com
 ||idahotec.store
 ||idm1.nl
@@ -1675,6 +1691,7 @@
 ||imagebarn.com
 ||imagehostr.com
 ||imagekit.io
+||imagens-icloud.com
 ||images-editor-acmb.s3.amazonaws.com
 ||imagevenue.com
 ||img.vision
@@ -2030,6 +2047,7 @@
 ||loannmarcelline.monster
 ||localcabinetquotes.com
 ||localcoservice.com
+||localizacaoiphone.com
 ||locasion.watch
 ||locatefamily.com
 ||locategorical.city
@@ -2428,6 +2446,7 @@
 ||officedirector1.com
 ||officezone1.co.uk
 ||officezone2.co.uk
+||oficial-icloud.com
 ||ofix.com
 ||og1.in
 ||ohmy.bid
@@ -2716,6 +2735,7 @@
 ||qu.ax
 ||qualified.com
 ||quantalynk.com
+||quantitive.top
 ||quantrovia.shop
 ||quantserve.com
 ||queenslaturne.club
@@ -2747,6 +2767,7 @@
 ||ralphorris.click
 ||rambler.ru
 ||rasleponsel.cc
+||rastreioicloud.support
 ||ravzeno.com
 ||razikallayi.com
 ||rb.gy
@@ -2817,6 +2838,12 @@
 ||rnfmz.com
 ||roamify.live
 ||robertbeautycenter.com
+||roblox.com.am
+||roblox.com.es
+||roblox.com.ml
+||roblox.ly
+||robloxc.com.es
+||robloxr.com.es
 ||rocalimentaire.co.uk
 ||rocketship.cash
 ||roig.com
@@ -3216,6 +3243,7 @@
 ||sunsurfnet.com
 ||supabase.co
 ||superb.bet
+||suporteapple.info
 ||support-page-trust.com
 ||support-tw.com
 ||supraplay.com
@@ -3629,10 +3657,12 @@
 ||vitalbloom.info
 ||vitaliqs.com
 ||vitalityessentials.online
+||vituabogt.space
 ||vix.com
 ||vk.com
 ||vlink.cz
 ||vo.la
+||vodafone-on-line.it
 ||volgersverkopen.nl
 ||voltro.digital
 ||voordeelkrantjes.nl
