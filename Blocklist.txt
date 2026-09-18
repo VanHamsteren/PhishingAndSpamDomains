@@ -288,6 +288,7 @@
 ||alocdn.com
 ||alodkie.xyz
 ||alphasad.site
+||alphonso.tv
 ||alsalama.sd
 ||alsupnet.com
 ||alwaysinbox.info
@@ -409,6 +410,7 @@
 ||autobot85.com
 ||autocodeworknet.com
 ||automatad.com
+||automediapro.ru
 ||automoter.com
 ||autoridgov-adu25.sbs
 ||avadaniels.click
@@ -712,6 +714,7 @@
 ||cedexis-test.com
 ||cefin.com
 ||celectribal.com
+||celikdolapmerkezi.com
 ||centranch.net
 ||ceramiconline.net
 ||cersalmondiro.com
@@ -811,6 +814,7 @@
 ||cmail19.com
 ||cmakdolltar.com
 ||cmp.ad.nl
+||cmsagency.org
 ||cmsbr.com
 ||cnhdigital.online
 ||coaleaks.com
@@ -855,6 +859,7 @@
 ||congressure.com
 ||connect-1inch.com
 ||connect-prompt.app
+||connect2api.com
 ||conseils-eligibilite2022.com
 ||consentmanager.net
 ||consistentsetup.com
@@ -919,6 +924,7 @@
 ||creditostudio.com
 ||creepy-frame.com
 ||crinr.com
+||crisp.chat
 ||cristalmc.com
 ||criteo.com
 ||criticalthinking.org
@@ -1033,6 +1039,7 @@
 ||differings.com.de
 ||digitalbrandtool.com
 ||digitalcaramel.com
+||digitalease-solution.com
 ||digitaloceanspaces.com
 ||digitalpeabody.com
 ||digitaltarget.ru
@@ -1452,6 +1459,7 @@
 ||getresponse.com
 ||getsmashwork.com
 ||gettrufullcbd.com
+||geturl.cloud
 ||getyest.com
 ||getyour25.com
 ||getyourgifts.info
@@ -1459,6 +1467,7 @@
 ||gewinnspiel.gratis
 ||gezenkalem.com
 ||gezgazi.shop
+||gfts.lge.com # Added after Gamers Nexus discovery that LG smart TVs appear to eavesdrop on users and scan networks (https://tweakers.net/nieuws/251832/lg-smart-tvs-lijken-gebruikers-af-te-luisteren-en-netwerken-te-scannen.html), so LG went on the shitlist
 ||gg.gg
 ||ghaznad.com
 ||gi8.vegas
@@ -1578,6 +1587,7 @@
 ||hdslholdings.com
 ||health-enrollment.com
 ||healthandclarity.com
+||healthcare.com
 ||healthcarefreeware.com
 ||healthcontact.info
 ||healthdefensepro.com
@@ -1721,6 +1731,7 @@
 ||imgouding.com
 ||imgprom.com
 ||imgsupload.com
+||impact-ad.jp
 ||importafc.shop
 ||improve-ur-finance.com
 ||in.net
@@ -1885,6 +1896,7 @@
 ||karlnfactory.com
 ||karpoff.org
 ||karstadtshop.de
+||karte-edge.io
 ||katina.online
 ||kaufland.de
 ||kavsz.org
@@ -2016,6 +2028,11 @@
 ||letrack6.nl
 ||letsgommo.us.com
 ||letspixel.no
+||lgad.cjpowercast.com.edgesuite.net # Added after Gamers Nexus discovery that LG smart TVs appear to eavesdrop on users and scan networks (https://tweakers.net/nieuws/251832/lg-smart-tvs-lijken-gebruikers-af-te-luisteren-en-netwerken-te-scannen.html), so LG went on the shitlist
+||lgappstv.com # Added after Gamers Nexus discovery that LG smart TVs appear to eavesdrop on users and scan networks (https://tweakers.net/nieuws/251832/lg-smart-tvs-lijken-gebruikers-af-te-luisteren-en-netwerken-te-scannen.html), so LG went on the shitlist
+||lgtvcommon.com # Added after Gamers Nexus discovery that LG smart TVs appear to eavesdrop on users and scan networks (https://tweakers.net/nieuws/251832/lg-smart-tvs-lijken-gebruikers-af-te-luisteren-en-netwerken-te-scannen.html), so LG went on the shitlist
+||lgtviot.com # Added after Gamers Nexus discovery that LG smart TVs appear to eavesdrop on users and scan networks (https://tweakers.net/nieuws/251832/lg-smart-tvs-lijken-gebruikers-af-te-luisteren-en-netwerken-te-scannen.html), so LG went on the shitlist
+||lgwebostv.com # Added after Gamers Nexus discovery that LG smart TVs appear to eavesdrop on users and scan networks (https://tweakers.net/nieuws/251832/lg-smart-tvs-lijken-gebruikers-af-te-luisteren-en-netwerken-te-scannen.html), so LG went on the shitlist
 ||liadm.com
 ||liat-mayer.com
 ||lidx.xyz
@@ -2123,6 +2140,7 @@
 ||lynmonkel.com
 ||m07l.com
 ||m4rv3l.com
+||ma-tag.com
 ||machicolations.world
 ||macroeconimic.com
 ||madcasino.io
@@ -2246,6 +2264,7 @@
 ||mgnotifelevaoff.com
 ||miafp.cl
 ||michaelatwork.space
+||microad.jp
 ||midnightssnow.com
 ||midwaysolutions.com.ar
 ||miinettes.biz
@@ -2392,6 +2411,7 @@
 ||nexo.com
 ||nexormail.com
 ||nextdayprime.com
+||nexverse.ai
 ||ni11ltiak.com
 ||nickelframes.online
 ||nicolegagnier.com
@@ -2673,6 +2693,7 @@
 ||preiser.shop
 ||premiospesa.it
 ||preservana.jp.net
+||pressic.de
 ||prestigeengine.co.uk
 ||preyromam.com
 ||prf.hn
@@ -2796,6 +2817,7 @@
 ||rasleponsel.cc
 ||rastreioicloud.support
 ||ravzeno.com
+||raygun.io
 ||razikallayi.com
 ||rb.gy
 ||readhubapp.com
@@ -2852,6 +2874,7 @@
 ||rhythmory.com
 ||richaudience.com
 ||richinfo.co
+||rin.asia
 ||rinsminister.com
 ||ripple-srv96041.net
 ||rippļe.com
@@ -2864,6 +2887,7 @@
 ||rmbl.ws
 ||rnfmz.com
 ||roamify.live
+||robee.tech
 ||robertbeautycenter.com
 ||roblox.com.am
 ||roblox.com.es
@@ -2949,6 +2973,7 @@
 ||savannawins1.com
 ||saynotocorn.com
 ||sbermarketing.ru
+||sbisec.co.jp
 ||sbiseclineag.com
 ||scaliagroup.com
 ||schelanguage.com
@@ -3052,6 +3077,7 @@
 ||shopreviews.info
 ||shoreham.online
 ||short.gy
+||shorten.as
 ||shorter.gg
 ||shorter.me
 ||shortpixel.ai
@@ -3110,6 +3136,7 @@
 ||sleepfortheweek.com
 ||slga.nl
 ||slidetosafety.com
+||slim02.jp
 ||sloas.co.uk
 ||slotmaster.com
 ||slotomatic.net
@@ -3149,6 +3176,7 @@
 ||smtpmail.shop
 ||smtxr.xyz
 ||snigelweb.com
+||snu.lge.com # Added after Gamers Nexus discovery that LG smart TVs appear to eavesdrop on users and scan networks (https://tweakers.net/nieuws/251832/lg-smart-tvs-lijken-gebruikers-af-te-luisteren-en-netwerken-te-scannen.html), so LG went on the shitlist
 ||soadvocates.com
 ||soaurb.com
 ||socdm.com
@@ -3503,6 +3531,7 @@
 ||trckweb.com
 ||treatforus.com
 ||trelunao.com
+||tremorhub.com
 ||trgf.org
 ||trianglebishop.ink
 ||triumph88.com
@@ -3612,6 +3641,7 @@
 ||urlz.fr
 ||us.com
 ||us.ibs.lgappstv.com
+||us1.in
 ||usabilla.com
 ||usclimatologic.com
 ||usclimatologist.com
@@ -3808,6 +3838,7 @@
 ||wiredress.co.uk
 ||wiryjape.com
 ||wisataolympus.com
+||wiselg.com # Added after Gamers Nexus discovery that LG smart TVs appear to eavesdrop on users and scan networks (https://tweakers.net/nieuws/251832/lg-smart-tvs-lijken-gebruikers-af-te-luisteren-en-netwerken-te-scannen.html), so LG went on the shitlist
 ||wiseowlsbest.com
 ||withickets.in
 ||wixirix.loan
@@ -3860,6 +3891,7 @@
 ||y8t8tey.com
 ||ya.co.ve
 ||yadro.ru
+||yahoo.co.jp
 ||yahoo.com
 ||yamfad.com
 ||yandex.com
@@ -3889,6 +3921,7 @@
 ||yourelitedateclub.top
 ||youribex.com
 ||yourmechanic.com
+||yourwebsite.com
 ||youseasky.com
 ||youstore4ever.shop
 ||youstraki.com
