@@ -1,8 +1,8 @@
 # Abused hosting, CDN & infrastructure
 
-136 domains · average threat score 15/100 · generated 2026-11-21
+135 domains · average threat score 15/100 · generated 2026-11-21
 
-Status: Online 107 · No website 5 · No address 21 · Not resolving 1 · Gone 2
+Status: Online 106 · No website 5 · No address 21 · Not resolving 1 · Gone 2
 
 [Back to overview](README.md) · columns are explained in the overview.
 
@@ -33,7 +33,6 @@ Status: Online 107 · No website 5 · No address 21 · Not resolving 1 · Gone 2
 | `cloud-xip.com` | Wildcard IP-hostname DNS service abused by spam hosts _(medium confidence)_ | No website | 20 | Medium | 2022-10-08 | – | – |
 | `cloudfunctions.net` | Google Cloud Functions hosting | No address | 0 | High | 2015-12-03 | – | – |
 | `cloudinary.com` | Cloudinary image/video CDN _(medium confidence)_ | Online | 0 | High | 2011-05-24 | – | – |
-| `com.ru` | Commercial second-level subdomain registry (.com.ru) _(medium confidence)_ | Online | 15 | Medium | – | – | – |
 | `contaboserver.net` | Contabo VPS server hostnames | No address | 10 | Medium | 2017-03-05 | – | – |
 | `contentdeliverynetwork.cc` | Generic CDN-named spam asset host _(low confidence)_ | Online | 30 | Medium | 2024-10-25 | – | – |
 | `contentnet.cc` | Generic content-host domain used in spam chains _(low confidence)_ | Online | 30 | Medium | 2025-05-28 | – | – |

@@ -1,6 +1,6 @@
 # Blocklist analysis
 
-Snapshot of all **4,301** domains in [`Blocklist.txt`](../Blocklist.txt), generated on 2026-11-21.
+Snapshot of all **4,292** domains in [`Blocklist.txt`](../Blocklist.txt), generated on 2026-11-21.
 Every domain is grouped by type, checked to see if it still exists, cross-checked against other public
 blocklists and given a threat score. The full data set is in [`domains.csv`](domains.csv).
 
@@ -19,31 +19,31 @@ blocklists and given a threat score. The full data set is in [`domains.csv`](dom
 | [Gambling & casino](casino.md) | 442 | 410 | 304 | 54 |
 | [Dating & adult](dating-adult.md) | 73 | 57 | 44 | 42 |
 | [Spam, lead-gen & prize scams](spam-leadgen.md) | 434 | 280 | 208 | 49 |
-| [Redirects, link tracking & cloaking](redirects-tracking.md) | 469 | 361 | 248 | 52 |
+| [Redirects, link tracking & cloaking](redirects-tracking.md) | 468 | 361 | 248 | 52 |
 | [Compromised legitimate sites](compromised.md) | 230 | 204 | 172 | 36 |
 | [URL shorteners & link-in-bio](shorteners.md) | 110 | 108 | 101 | 30 |
-| [Abused hosting, CDN & infrastructure](hosting.md) | 136 | 133 | 107 | 15 |
+| [Abused hosting, CDN & infrastructure](hosting.md) | 135 | 132 | 106 | 15 |
 | [Email marketing & mass-mail infrastructure](email-marketing.md) | 53 | 51 | 44 | 18 |
 | [Advertising networks & ad tech](adtech.md) | 320 | 313 | 233 | 14 |
 | [Analytics, tracking & data brokers](tracking.md) | 183 | 181 | 127 | 9 |
 | [Parked / for-sale domains & parking services](parked.md) | 52 | 51 | 50 | 35 |
-| [Mainstream services (likely legitimate)](mainstream.md) | 206 | 206 | 180 | 1 |
+| [Mainstream services (likely legitimate)](mainstream.md) | 199 | 199 | 178 | 1 |
 | [Unknown purpose](unknown.md) | 1,172 | 492 | 206 | 34 |
-| **Total** | **4,301** | **3,064** | **2,141** | |
+| **Total** | **4,292** | **3,056** | **2,138** | |
 
 ## Does it still exist?
 
-- **3,064** domains are still registered, **1,144** are gone and **93** could not be determined.
-- **970** domains (22%) are also listed on at least one other public blocklist.
+- **3,056** domains are still registered, **1,144** are gone and **92** could not be determined.
+- **969** domains (22%) are also listed on at least one other public blocklist.
 
 | Status | Domains | Meaning |
 |---|---:|---|
-| Online | 2,023 | Resolves and a web server answers (any HTTP status). |
+| Online | 2,020 | Resolves and a web server answers (any HTTP status). |
 | Parked | 118 | Online, but only shows a parking or for-sale page. |
 | No website | 234 | Resolves in DNS, but no web server answers. |
-| No address | 369 | Domain is registered, but has no web address (no A record). |
+| No address | 364 | Domain is registered, but has no web address (no A record). |
 | DNS error | 119 | The domain's DNS servers are broken (SERVFAIL). |
-| Not resolving | 156 | Domain does not resolve (NXDOMAIN) but is still registered. |
+| Not resolving | 155 | Domain does not resolve (NXDOMAIN) but is still registered. |
 | Suspended | 138 | Registry or registrar put the domain on hold (usually an abuse takedown). |
 | Gone | 1,144 | Domain is not registered anymore (expired or deleted). Anyone could register it again. |
 
@@ -71,7 +71,7 @@ Each row in `domains.csv` has a `score_breakdown` column that lists which factor
 - **Medium**: hosting, shorteners, email platforms, consent managers and other popular domains.
 - **Low**: everything else. Blocking only stops the spam, scam or tracking.
 
-## High breakage risk (263)
+## High breakage risk (256)
 
 These are probably legitimate services. Blocking them can break normal sites or apps; review whether you want to keep them.
 
@@ -87,7 +87,6 @@ These are probably legitimate services. Blocking them can break normal sites or 
 | `msn.com` | Mainstream services (likely legitimate) | Microsoft MSN portal | 94 |
 | `yandex.ru` | Mainstream services (likely legitimate) | Yandex search/portal | 112 |
 | `aliyuncs.com` | Abused hosting, CDN & infrastructure | Alibaba Cloud object storage/hosting | 116 |
-| `cloudflare-dns.com` | Mainstream services (likely legitimate) | Cloudflare 1.1.1.1 DNS resolver | 137 |
 | `duckdns.org` | Abused hosting, CDN & infrastructure | Duck DNS free dynamic DNS | 139 |
 | `vk.com` | Mainstream services (likely legitimate) | VK social network | 163 |
 | `example.com` | Mainstream services (likely legitimate) | IANA reserved example domain | 184 |
@@ -96,11 +95,9 @@ These are probably legitimate services. Blocking them can break normal sites or 
 | `publicnode.com` | Abused hosting, CDN & infrastructure | Public blockchain RPC endpoints (Allnodes) | 212 |
 | `avcdn.net` | Mainstream services (likely legitimate) | Avast/AVG software CDN | 213 |
 | `namecheap.com` | Mainstream services (likely legitimate) | Namecheap domain registrar | 226 |
-| `msftconnecttest.com` | Mainstream services (likely legitimate) | Windows network connectivity check | 247 |
 | `t.co` | URL shorteners & link-in-bio | X/Twitter link shortener | 251 |
 | `wixsite.com` | Abused hosting, CDN & infrastructure | Wix free site hosting | 274 |
 | `tinyurl.com` | URL shorteners & link-in-bio | URL shortener (TinyURL) | 310 |
-| `msftncsi.com` | Mainstream services (likely legitimate) | Windows NCSI connectivity check | 314 |
 | `avast.com` | Mainstream services (likely legitimate) | Antivirus vendor (Avast) | 323 |
 | `mybluehost.me` | Abused hosting, CDN & infrastructure | Bluehost temporary site domains | 354 |
 | `twimg.com` | Mainstream services (likely legitimate) | X/Twitter image CDN | 363 |
@@ -314,7 +311,6 @@ These are probably legitimate services. Blocking them can break normal sites or 
 | `bigtechinterviews.com` | Mainstream services (likely legitimate) | Tech interview prep site | – |
 | `billgrid.com` | Mainstream services (likely legitimate) | Invoicing SaaS (BillGrid) | – |
 | `buildern.com` | Mainstream services (likely legitimate) | Construction management SaaS (Buildern) | – |
-| `com.br` | Mainstream services (likely legitimate) | Brazilian public suffix (registry SLD); never block whole | – |
 | `corp.google.com` | Mainstream services (likely legitimate) | Google internal corporate domain | – |
 | `ebayclassifieds.net` | Mainstream services (likely legitimate) | Likely eBay defensive domain | – |
 | `electrabel.com` | Mainstream services (likely legitimate) | Electrabel/ENGIE Belgian energy company | – |
@@ -324,12 +320,9 @@ These are probably legitimate services. Blocking them can break normal sites or 
 | `line.pm` | Mainstream services (likely legitimate) | Line Budgeter production-budget SaaS short domain | – |
 | `login.corp.google.com` | Mainstream services (likely legitimate) | Google corporate SSO | – |
 | `merchantpool1.linkedin.com` | Mainstream services (likely legitimate) | LinkedIn infrastructure host | – |
-| `net.in` | Mainstream services (likely legitimate) | Indian .net.in public-suffix zone, blocking causes collateral | – |
 | `oddgrenland.no` | Mainstream services (likely legitimate) | ODD Grenland Norwegian football club site | – |
-| `or.jp` | Mainstream services (likely legitimate) | Japanese .or.jp public-suffix zone, blocking causes collateral | – |
 | `publicsonar.com` | Mainstream services (likely legitimate) | Media monitoring, now Maltego Monitor | – |
 | `rsvpify.org` | Mainstream services (likely legitimate) | RSVPify event RSVP software | – |
-| `safebrowsing.googleapis.com` | Mainstream services (likely legitimate) | Google Safe Browsing API | – |
 | `sendcloud.fr` | Mainstream services (likely legitimate) | Parcel shipping platform (Sendcloud) | – |
 | `sharesale.com` | Mainstream services (likely legitimate) | ShareASale typo domain redirecting to News UK | – |
 | `skybot.fr` | Mainstream services (likely legitimate) | French Discord bot site | – |

@@ -1,8 +1,8 @@
 # Mainstream services (likely legitimate)
 
-206 domains · average threat score 1/100 · generated 2026-11-21
+199 domains · average threat score 1/100 · generated 2026-11-21
 
-Status: Online 179 · Parked 1 · No website 3 · No address 23
+Status: Online 177 · Parked 1 · No website 3 · No address 18
 
 [Back to overview](README.md) · columns are explained in the overview.
 
@@ -40,12 +40,10 @@ Status: Online 179 · Parked 1 · No website 3 · No address 23
 | `cbsistatic.com` | CBS Interactive static content CDN | No address | 0 | High | 2011-10-27 | – | – |
 | `cex.io` | CEX.IO crypto exchange _(medium confidence)_ | Online | 10 | High | – | 2 | – |
 | `chatbro.com` | ChatBro website chat widget service _(medium confidence)_ | Online | 0 | High | 2013-03-26 | – | – |
-| `cloudflare-dns.com` | Cloudflare 1.1.1.1 DNS resolver | Online | 0 | High | 2018-03-27 | – | one.one.one.one |
 | `cloudflare-terms-of-service-abuse.com` | Cloudflare abuse interstitial domain | No address | 0 | High | 2020-11-06 | – | – |
 | `coindesk.com` | CoinDesk crypto news | Online | 0 | High | 2008-05-04 | – | – |
 | `coingecko.com` | CoinGecko crypto price tracker | Online | 0 | High | 2014-03-26 | – | – |
 | `coinlib.io` | Coinlib crypto price site _(medium confidence)_ | Online | 5 | High | – | – | – |
-| `com.br` | Brazilian public suffix (registry SLD); never block whole | No address | 0 | High | – | – | – |
 | `confirmit.com` | Forsta/Confirmit survey research platform _(medium confidence)_ | Online | 0 | High | 1998-12-23 | 1 | www.forsta.com |
 | `cookiepedia.co.uk` | OneTrust cookie information site _(medium confidence)_ | Online | 0 | High | 2011-11-01 | – | – |
 | `corp.google.com` | Google internal corporate domain | Online | 0 | High | 1997-09-15 | – | – |
@@ -120,12 +118,9 @@ Status: Online 179 · Parked 1 · No website 3 · No address 23
 | `merchantpool1.linkedin.com` | LinkedIn infrastructure host | Online | 0 | High | 2002-11-02 | – | – |
 | `momo.com` | MOMO motorsport brand site _(low confidence)_ | Online | 0 | High | 1995-03-08 | – | momomotorsport.com |
 | `monclubsportif.com` | Sports team management software _(low confidence)_ | Online | 0 | High | 2007-03-30 | – | – |
-| `msftconnecttest.com` | Windows network connectivity check | No address | 0 | High | 2014-04-04 | – | – |
-| `msftncsi.com` | Windows NCSI connectivity check | No address | 0 | High | 2005-11-10 | – | – |
 | `msn.com` | Microsoft MSN portal | Online | 0 | High | 1994-11-10 | – | – |
 | `mts.ru` | MTS Russian telecom | Online | 0 | High | – | – | – |
 | `namecheap.com` | Namecheap domain registrar | Online | 0 | High | 2000-08-11 | – | – |
-| `net.in` | Indian .net.in public-suffix zone, blocking causes collateral _(medium confidence)_ | No address | 5 | High | 2025-05-28 | – | – |
 | `newsbreak.com` | NewsBreak local news app _(medium confidence)_ | Online | 0 | High | 1997-09-03 | – | – |
 | `newspark.ca` | NewSpark UGC platform _(low confidence)_ | Online | 5 | High | 2018-08-21 | – | – |
 | `nexo.com` | Nexo crypto lending platform _(medium confidence)_ | Online | 0 | High | 1998-08-22 | – | – |
@@ -135,7 +130,6 @@ Status: Online 179 · Parked 1 · No website 3 · No address 23
 | `ofix.com` | Ofix Turkish office supplies retailer _(low confidence)_ | Online | 0 | High | 2003-08-24 | – | – |
 | `omny.fm` | Omny Studio podcast hosting (Triton) _(medium confidence)_ | Online | 0 | High | 2016-02-11 | – | – |
 | `omnycontent.com` | Omny Studio podcast content CDN _(medium confidence)_ | Online | 0 | High | 2015-02-19 | – | – |
-| `or.jp` | Japanese .or.jp public-suffix zone, blocking causes collateral _(medium confidence)_ | No address | 0 | High | – | – | – |
 | `overwolf.com` | Overwolf gaming app platform _(medium confidence)_ | Online | 0 | High | 2009-08-23 | – | – |
 | `paytomorrow.com` | PayTomorrow consumer financing _(low confidence)_ | Online | 0 | High | 2012-11-07 | – | – |
 | `picsum.photos` | Lorem Picsum placeholder image service _(medium confidence)_ | Online | 0 | High | 2017-09-14 | – | – |
@@ -150,7 +144,6 @@ Status: Online 179 · Parked 1 · No website 3 · No address 23
 | `revenuehunt.com` | Shopify product recommendation quiz app _(low confidence)_ | Online | 0 | High | 2019-07-21 | 1 | – |
 | `rmbl.ws` | Rumble video short domain _(medium confidence)_ | Online | 0 | High | – | – | rumble.com |
 | `rsvpify.org` | RSVPify event RSVP software _(medium confidence)_ | Online | 5 | High | 2021-06-24 | – | rsvpify.com |
-| `safebrowsing.googleapis.com` | Google Safe Browsing API | Online | 5 | High | – | 1 | – |
 | `salmonbusiness.com` | Salmon industry news site _(low confidence)_ | Online | 0 | High | 2016-01-23 | – | – |
 | `sanity.io` | Headless CMS platform (Sanity) _(medium confidence)_ | Online | 0 | High | – | – | – |
 | `saopaulo.sp.gov.br` | Sao Paulo state government | Online | 5 | High | – | – | www.sp.gov.br |

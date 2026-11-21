@@ -1,8 +1,8 @@
 # Redirects, link tracking & cloaking
 
-469 domains · average threat score 52/100 · generated 2026-11-21
+468 domains · average threat score 52/100 · generated 2026-11-21
 
-Status: Online 225 · Parked 23 · No website 17 · No address 60 · DNS error 17 · Not resolving 10 · Suspended 16 · Gone 101
+Status: Online 225 · Parked 23 · No website 17 · No address 60 · DNS error 17 · Not resolving 9 · Suspended 16 · Gone 101
 
 [Back to overview](README.md) · columns are explained in the overview.
 
@@ -93,7 +93,6 @@ Status: Online 225 · Parked 23 · No website 17 · No address 60 · DNS error 1
 | `change-route2.com` | Numbered redirect domain _(medium confidence)_ | Gone | 35 | Low | – | – | – |
 | `chclatesdabst.com` | Affiliate performance-tracking server | Online | 55 | Low | 2023-04-26 | 1 | – |
 | `childrenoftheclouds.com` | Likely redirect/tracking domain (ads/malware lists) _(low confidence)_ | Online | 65 | Low | 2023-03-13 | 2 | – |
-| `childrenoftheclouds.comtrack` | Malformed entry: tracking path glued to redirect domain _(low confidence)_ | Not resolving | 45 | Low | – | – | – |
 | `christina-galan.site` | Personal-name throwaway landing domain, offline _(low confidence)_ | Gone | 40 | Low | – | – | – |
 | `christopheantoine.click` | Personal-name throwaway .click redirector _(low confidence)_ | Gone | 40 | Low | – | – | – |
 | `cieloangular.space` | Throwaway redirect domain, offline _(low confidence)_ | Suspended | 85 | Low | 2026-09-02 | 1 | – |
