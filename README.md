@@ -11,6 +11,8 @@ If your website is on this list, though luck, your website (or it's security) su
 My favorite, easy to use and easy to maintain preferred DNS blocking tool is [NextDNS](https://nextdns.io/?from=xsddn7rw), but you can use this list with any other tool, such as PiHole or AdGuard for example.
 Support my coffee addiction by donating a Nespresso cup here: https://www.buymeacoffee.com/nyana (I drink about 8 cups per day)
 
+Want to know why a domain is on the list? The [analysis](analysis/README.md) groups every domain by type (phishing, fake shops, casino, spam, tracking …), shows whether it still exists and gives it a threat score.
+
 Stay safe, the internet is a really bad place to hang out.
 
 Last update: Aug. 7 2026
