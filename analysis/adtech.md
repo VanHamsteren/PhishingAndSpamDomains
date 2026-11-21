@@ -180,7 +180,7 @@ Status: Online 231 · Parked 2 · No website 19 · No address 55 · DNS error 3 
 | `kueez.com` | Publisher ad platform (Kueez) | Online | 5 | Low | 2016-05-17 | – | – |
 | `kueezrtb.com` | Kueez RTB ad exchange | Online | 10 | Low | 2022-08-29 | 4 | weare.kueez.com |
 | `leojmp.com` | Ad network jump/redirect domain _(medium confidence)_ | Online | 30 | Low | 2020-08-07 | 3 | – |
-| `lgad.cjpowercast.com.edgesuite.net` | LG smart TV advertising endpoint | Gone | 15 | Low | – | 2 | – |
+| `lgad.cjpowercast.com.edgesuite.net` | LG smart-TV ad endpoint; added after Gamers Nexus found LG TVs appear to eavesdrop on users and scan networks | Gone | 15 | Low | – | 2 | – |
 | `lijit.com` | Sovrn ad serving (Lijit) | Online | 0 | Low | 2006-07-22 | 5 | – |
 | `linkssp.ru` | Russian SSP (Link Platform) | Online | 5 | Low | – | – | – |
 | `loopme.me` | LoopMe mobile ad platform | Online | 20 | Low | – | 6 | – |

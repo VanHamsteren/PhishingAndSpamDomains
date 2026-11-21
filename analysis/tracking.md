@@ -76,7 +76,7 @@ Status: Online 126 · Parked 1 · No website 8 · No address 43 · DNS error 2 �
 | `geojs.io` | IP geolocation API (GeoJS) | Online | 20 | Low | – | 2 | – |
 | `getblue.io` | Marketing tracking/retargeting (Blue) _(medium confidence)_ | No address | 25 | Low | – | 1 | – |
 | `getflowbox.com` | UGC/social commerce widget (Flowbox) _(low confidence)_ | Online | 5 | Low | 2015-12-21 | – | – |
-| `gfts.lge.com` | LG smart-TV telemetry endpoint (LG Electronics); entry carries inline comment | Online | 15 | Low | 1995-01-11 | – | – |
+| `gfts.lge.com` | LG smart-TV telemetry; added after Gamers Nexus found LG TVs appear to eavesdrop on users and scan networks | Online | 15 | Low | 1995-01-11 | – | – |
 | `googleoptimize.com` | Google Optimize A/B testing (discontinued) | Online | 20 | Low | 2019-04-06 | 2 | – |
 | `gpm.samsungqbe.com` | Samsung smart-TV content/ad platform endpoint _(medium confidence)_ | Online | 15 | Low | 2014-07-09 | – | – |
 | `hotjar.com` | Session replay/heatmaps (Hotjar) | Online | 0 | Low | 2007-01-23 | 5 | contentsquare.com |
@@ -98,10 +98,10 @@ Status: Online 126 · Parked 1 · No website 8 · No address 43 · DNS error 2 �
 | `karte-edge.io` | KARTE (PLAID) Japanese CX tracking | No address | 20 | Low | – | – | – |
 | `krxd.net` | Salesforce Krux DMP | No address | 5 | Low | 2010-05-18 | 6 | – |
 | `letspixel.no` | Pixel/marketing tracking domain (Letspixel) _(low confidence)_ | Online | 25 | Low | 2018-11-15 | – | – |
-| `lgappstv.com` | LG smart TV app/telemetry domain | No website | 0 | Low | 2011-02-18 | – | – |
-| `lgtvcommon.com` | LG smart TV telemetry domain | No address | 0 | Low | 2018-02-23 | – | – |
-| `lgtviot.com` | LG smart TV IoT telemetry domain | No address | 0 | Low | 2017-07-19 | – | – |
-| `lgwebostv.com` | LG webOS TV telemetry domain | No address | 10 | Low | 2022-08-10 | – | – |
+| `lgappstv.com` | LG smart-TV telemetry; added after Gamers Nexus found LG TVs appear to eavesdrop on users and scan networks | No website | 0 | Low | 2011-02-18 | – | – |
+| `lgtvcommon.com` | LG smart-TV telemetry; added after Gamers Nexus found LG TVs appear to eavesdrop on users and scan networks | No address | 0 | Low | 2018-02-23 | – | – |
+| `lgtviot.com` | LG smart-TV telemetry; added after Gamers Nexus found LG TVs appear to eavesdrop on users and scan networks | No address | 0 | Low | 2017-07-19 | – | – |
+| `lgwebostv.com` | LG smart-TV telemetry; added after Gamers Nexus found LG TVs appear to eavesdrop on users and scan networks | No address | 10 | Low | 2022-08-10 | – | – |
 | `liadm.com` | LiveIntent identity/email tracking | No address | 0 | Low | 2010-10-25 | 6 | – |
 | `litix.io` | Mux Data video analytics | No address | 5 | Low | – | 4 | – |
 | `locatefamily.com` | People-search data broker _(medium confidence)_ | Online | 5 | Low | 2000-03-21 | – | – |
@@ -158,7 +158,7 @@ Status: Online 126 · Parked 1 · No website 8 · No address 43 · DNS error 2 �
 | `smartlook.com` | Session replay analytics (Smartlook) | Online | 10 | Low | 1997-12-01 | 5 | – |
 | `smartocto.com` | Editorial analytics (smartocto) | Online | 10 | Low | 2014-11-21 | 3 | – |
 | `smartytouch.co` | Tracker on EasyPrivacy _(medium confidence)_ | No address | 5 | Low | – | 2 | – |
-| `snu.lge.com` | LG smart TV update/telemetry server, added manually (line has inline comment) _(medium confidence)_ | Online | 15 | Low | 1995-01-11 | – | – |
+| `snu.lge.com` | LG smart-TV telemetry; added after Gamers Nexus found LG TVs appear to eavesdrop on users and scan networks | Online | 15 | Low | 1995-01-11 | – | – |
 | `solitics.com` | Real-time marketing/engagement platform (iGaming/fintech) _(medium confidence)_ | Online | 10 | Low | 2016-06-30 | 1 | – |
 | `sqlwe.com` | Tracking domain, server down _(low confidence)_ | Online | 35 | Low | 2025-02-05 | 1 | – |
 | `statcounter.com` | Web analytics (Statcounter) | Online | 0 | Low | 2000-01-05 | 3 | – |
@@ -184,7 +184,7 @@ Status: Online 126 · Parked 1 · No website 8 · No address 43 · DNS error 2 �
 | `vturb.com` | VTurb video player/analytics for sales funnels _(medium confidence)_ | Online | 15 | Low | 2021-04-06 | – | – |
 | `vturb.com.br` | VTurb video player/analytics for sales funnels _(medium confidence)_ | Online | 25 | Low | 2021-04-03 | – | www.vturb.com |
 | `vturb.net` | VTurb video/analytics CDN _(medium confidence)_ | No address | 10 | Low | 2022-06-14 | – | – |
-| `wiselg.com` | LG smart-TV telemetry/ACR domain (manually added) | No address | 5 | Low | 2024-07-29 | – | – |
+| `wiselg.com` | LG smart-TV telemetry; added after Gamers Nexus found LG TVs appear to eavesdrop on users and scan networks | No address | 5 | Low | 2024-07-29 | – | – |
 | `wtfismyip.com` | IP lookup service _(medium confidence)_ | Online | 10 | Low | 2003-05-19 | 1 | – |
 | `yadro.ru` | LiveInternet counter/analytics | Online | 20 | Low | – | 5 | – |
 | `youseasky.com` | Tracker on EasyPrivacy/AdGuard lists _(medium confidence)_ | No address | 25 | Low | 2022-08-01 | 2 | – |
