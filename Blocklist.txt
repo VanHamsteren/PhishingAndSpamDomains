@@ -805,7 +805,6 @@
 ||chicelegance.pro
 ||chiisland.com
 ||childrenoftheclouds.com
-||childrenoftheclouds.comtrack
 ||chinaschool.org
 ||chinashuijinghua.com
 ||chinavnrentals.com
@@ -869,7 +868,6 @@
 ||cloudbarfbag.com
 ||cloudbetterfast.nl
 ||clouddamed.com
-||cloudflare-dns.com
 ||cloudflare-terms-of-service-abuse.com
 ||cloudflareinsights.com
 ||cloudfunctions.net
@@ -906,8 +904,6 @@
 ||collectorsoffers.com
 ||collthin.com
 ||colossusssp.com
-||com.br
-||com.ru
 ||combofacil.com
 ||come.ac
 ||comebacktraffic.com
@@ -1583,7 +1579,7 @@
 ||gewinnspiel.gratis
 ||gezenkalem.com
 ||gezgazi.shop
-||gfts.lge.com # Added after Gamers Nexus discovery that LG smart TVs appear to eavesdrop on users and scan networks (https://tweakers.net/nieuws/251832/lg-smart-tvs-lijken-gebruikers-af-te-luisteren-en-netwerken-te-scannen.html), so LG went on the shitlist
+||gfts.lge.com
 ||gg.gg
 ||ghaznad.com
 ||gi8.vegas
@@ -2178,11 +2174,11 @@
 ||letrack6.nl
 ||letsgommo.us.com
 ||letspixel.no
-||lgad.cjpowercast.com.edgesuite.net # Added after Gamers Nexus discovery that LG smart TVs appear to eavesdrop on users and scan networks (https://tweakers.net/nieuws/251832/lg-smart-tvs-lijken-gebruikers-af-te-luisteren-en-netwerken-te-scannen.html), so LG went on the shitlist
-||lgappstv.com # Added after Gamers Nexus discovery that LG smart TVs appear to eavesdrop on users and scan networks (https://tweakers.net/nieuws/251832/lg-smart-tvs-lijken-gebruikers-af-te-luisteren-en-netwerken-te-scannen.html), so LG went on the shitlist
-||lgtvcommon.com # Added after Gamers Nexus discovery that LG smart TVs appear to eavesdrop on users and scan networks (https://tweakers.net/nieuws/251832/lg-smart-tvs-lijken-gebruikers-af-te-luisteren-en-netwerken-te-scannen.html), so LG went on the shitlist
-||lgtviot.com # Added after Gamers Nexus discovery that LG smart TVs appear to eavesdrop on users and scan networks (https://tweakers.net/nieuws/251832/lg-smart-tvs-lijken-gebruikers-af-te-luisteren-en-netwerken-te-scannen.html), so LG went on the shitlist
-||lgwebostv.com # Added after Gamers Nexus discovery that LG smart TVs appear to eavesdrop on users and scan networks (https://tweakers.net/nieuws/251832/lg-smart-tvs-lijken-gebruikers-af-te-luisteren-en-netwerken-te-scannen.html), so LG went on the shitlist
+||lgad.cjpowercast.com.edgesuite.net
+||lgappstv.com
+||lgtvcommon.com
+||lgtviot.com
+||lgwebostv.com
 ||liadm.com
 ||liat-mayer.com
 ||lidx.xyz
@@ -2508,8 +2504,6 @@
 ||mrpunter-4499.com
 ||mrpunter100.com
 ||mrslotyapi.com
-||msftconnecttest.com
-||msftncsi.com
 ||msn.com
 ||mtam53fu.com
 ||mtarounts.com
@@ -2575,7 +2569,6 @@
 ||nervefresh24.com
 ||nesta.fr
 ||net-engineers.com
-||net.in
 ||netcontent.cc
 ||netomatic.net
 ||nettvservices.com
@@ -2751,7 +2744,6 @@
 ||optoutmenow.com
 ||optoutsub.com
 ||optoutsystem.com
-||or.jp
 ||orbio.world
 ||orbsrv.com
 ||organisations.info
@@ -3186,7 +3178,6 @@
 ||sadiomarioon.us.com
 ||sadkkeomek-dhdyujs.my
 ||safebestredirssl.com
-||safebrowsing.googleapis.com
 ||safeguardconnection.com
 ||safemobilesurf.com
 ||safeopt.com
@@ -3440,7 +3431,7 @@
 ||smtpmail.shop
 ||smtxr.xyz
 ||snigelweb.com
-||snu.lge.com # Added after Gamers Nexus discovery that LG smart TVs appear to eavesdrop on users and scan networks (https://tweakers.net/nieuws/251832/lg-smart-tvs-lijken-gebruikers-af-te-luisteren-en-netwerken-te-scannen.html), so LG went on the shitlist
+||snu.lge.com
 ||soadvocates.com
 ||soaurb.com
 ||socdm.com
@@ -4150,7 +4141,7 @@
 ||wiredress.co.uk
 ||wiryjape.com
 ||wisataolympus.com
-||wiselg.com # Added after Gamers Nexus discovery that LG smart TVs appear to eavesdrop on users and scan networks (https://tweakers.net/nieuws/251832/lg-smart-tvs-lijken-gebruikers-af-te-luisteren-en-netwerken-te-scannen.html), so LG went on the shitlist
+||wiselg.com
 ||wiseowlsbest.com
 ||withickets.in
 ||wixirix.loan
